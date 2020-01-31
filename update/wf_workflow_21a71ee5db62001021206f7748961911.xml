@@ -33,12 +33,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-24 21:04:07</sys_created_on>
         <sys_id>f5bfd6a1dba2001021206f774896196b</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-24 21:12:23</sys_updated_on>
+        <sys_updated_on>2020-01-31 16:45:39</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="NeedIt Approval">21a71ee5db62001021206f7748961911</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
